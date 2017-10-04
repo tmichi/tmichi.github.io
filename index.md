@@ -40,6 +40,7 @@ _Keywords : mesh morphing, medial axis, medial surface, distance field, void, en
  - [Japanese page](index.ja.html)
 
 ------
+
 ## Contact Information  
  > Takashi Michikawa, Dr. Eng.  
  > Photonics Control Technology Team  
