@@ -3,7 +3,7 @@
 ------
  - Research Scientist, Photonics Control Technology Team, RIKEN Center for Advanced Photonics, [RIKEN](http://riken.jp/)  (The institute of physical and chemical research)
  - [Curriculum Vitae](profile.html)
- -----
+------
 
 ## News
  - I am serving an associate editor of [IEICE TRANSACTIONS on Information and Systems](https://search.ieice.org/bin/index.php?category=D&lang=E&curr=1). (since June 2017)
