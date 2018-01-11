@@ -6,7 +6,7 @@ CSS_FILE=styles.css
 %.html : %.md $(TEMPLATE_FILE)
 	echo $<
 	sh run_pandoc.sh $(CSS_FILE) $(TEMPLATE_FILE) $< $@
-
+	mv $@ .
 .PHONY: all clean
 all: $(HTML_FILES)
 
