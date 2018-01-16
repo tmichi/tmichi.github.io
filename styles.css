@@ -1,0 +1,77 @@
+/* This is the StyleCatcher theme addition. Do not remove this block. */
+/* @import url(/mt5/mt-static/themes-base/blog.css); */
+/* @import url(/mt5/mt-static/themes/unstyled/screen.css);*/
+/* end StyleCatcher imports */
+
+hr{
+        border: 0;
+        border-bottom: 1px dashed #000;
+}
+body {
+        //background-color : #d3d3d3;
+        font-family: "Times New Roman", Times, Serif;
+        width:800px;
+        margin-right: auto;
+        margin-left : auto;
+}
+
+h1 {
+        font-family: "Helvetica", Arial;
+        font-size: x-large;
+        font-style: normal;
+}
+
+h2 {
+        font-family: "Helvetica", Arial;
+        font-size: large;
+        font-style: normal;
+}
+
+h3 {
+        font-family: "Helvetica", Arial;
+        font-size: medium;
+        font-style: normal;
+}
+
+figure {
+        display: inline-block;
+        left:auto;
+        right:auto;
+}
+.output {
+        margin: 3px;
+        padding: 10px;
+        border: 1px dashed #999999;
+}
+
+A:link
+{
+        color: #0000ff;
+        text-decoration: none;
+}
+A:visited
+{
+        color: #3333ff;
+        text-decoration: none;
+}
+A:hover
+{
+        color: #ff0000;
+        text-decoration: underline;
+}
+
+
+ul.topmenu li {
+        display: inline;
+        margin-right: 20px;
+}
+
+ *.float
+      {
+         float: left;
+         margin-right: 1em;
+      }
+      *.floatclear
+      {
+         clear: both;
+      }
