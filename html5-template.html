@@ -40,32 +40,14 @@ $endfor$
 $for(include-before)$
 $include-before$
 $endfor$
-$if(title)$
-<header>
-<h1 class="title">$title$</h1>
-$if(subtitle)$
-<p class="subtitle">$subtitle$</p>
-$endif$
-$for(author)$
-<p class="author">$author$</p>
-$endfor$
-$if(date)$
-<p class="date">$date$</p>
-$endif$
-</header>
-$endif$
-$if(toc)$
-<nav id="$idprefix$TOC">
-$toc$
-</nav>
-$endif$
+
 $body$
 $for(include-after)$
 $include-after$
 $endfor$
 <footer>
       <hr />
-      (c)1995 - 2018 <a href ="/">Takashi Michikawa</a> 
+      (c) 2018 <a href ="/">Takashi Michikawa</a>
 </footer>
 </body>
 </html>
