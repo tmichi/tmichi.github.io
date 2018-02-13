@@ -5,8 +5,12 @@ CSS_FILE=styles.css
 .SUFFIXES: .md .html
 %.html : %.md $(TEMPLATE_FILE)
 	echo $<
-	sh run_pandoc.sh $(CSS_FILE) $(TEMPLATE_FILE) $< $@
-.PHONY: all clean
+	pandoc  -F pandoc-crossref --css $(CSS_FILE) --template $(TEMPLATE_FILE) --to html5 -o $@ $<
+
+.PHONY: all clean publish
+publish:
+	git commit -a -m "snapshot"
+	git push
 all: $(HTML_FILES)
 clean:
-	rm -f $(HTML_FILES)
+	rm -f $(HTML_FILES) *~
