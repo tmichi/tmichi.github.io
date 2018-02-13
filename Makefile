@@ -8,9 +8,11 @@ CSS_FILE=styles.css
 	pandoc  -F pandoc-crossref --css $(CSS_FILE) --template $(TEMPLATE_FILE) --to html5 -o $@ $<
 
 .PHONY: all clean publish
-publish:
-	git commit -a -m "snapshot"
-	git push
+
 all: $(HTML_FILES)
 clean:
 	rm -f $(HTML_FILES) *~
+
+publish: $(HTML_FILES) Makefile
+	git commit -a -m "snapshot"
+	git push
