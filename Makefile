@@ -13,6 +13,6 @@ all: $(HTML_FILES)
 clean:
 	rm -f $(HTML_FILES) *~
 
-publish: $(HTML_FILES) Makefile
+publish: 
 	git commit -a -m "snapshot"
 	git push

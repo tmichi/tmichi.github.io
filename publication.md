@@ -1,12 +1,12 @@
 %Publication List
 
 # Publication List
-as of 15 Jan. 2018
+as of 15 February,  2018
 
 ## Journal articles
 1. Nao Hidaka, Takashi Michikawa, Ali Motamedi, Nobuyoshi Yabuki, and Tomohiro Fukuda, "Polygonization of Point Cloud of Tunnels Using Lofting Operation", _International Journal of Automation Technology_, Vol. 12, No. 3, in press, 2018.
 1. Nao Hidaka, Takashi Michikawa, Ali Motamedi, Nobuyoshi Yabuki, and Tomohiro Fukuda, "Polygonization of point clouds of repetitive components in civil infrastructure based on geometric similarities", _Automation in Construction_, Vol. 86, pp. 99–117, Feb. 2018, [doi:10.1016/j.autcon.2017.10.014](http://dx.doi.org/10.1016/j.autcon.2017.10.014).
-1. Takeharu Murakami, Norihito Saito, Yuichi Komachi, Kotaro Okamura, Takashi Michikawa, Michio Sakashita, Shigeru Kogure, Kiwamu Kase, Satoshi Wada, and Katsumi Midorikawa, "High-spatial-resolution survey using frequency-shifted feedback laser for transport infrastructure maintenance", _Journal of Disaster Research_, Vol. 12, No. 3, pp. 546–556, Jun. 2017, http://dx.doi.org/10.20965/jdr.2017.p0546.
+1. Takeharu Murakami, Norihito Saito, Yuichi Komachi, Kotaro Okamura, Takashi Michikawa, Michio Sakashita, Shigeru Kogure, Kiwamu Kase, Satoshi Wada, and Katsumi Midorikawa, "High-spatial-resolution survey using frequency-shifted feedback laser for transport infrastructure maintenance", _Journal of Disaster Research_, Vol. 12, No. 3, pp. 546–556, Jun. 2017, [doi:10.20965/jdr.2017.p0546](http://dx.doi.org/10.20965/jdr.2017.p0546).
 1. Takashi Michikawa, Hiromasa Suzuki, Masaki Moriguchi, Naomichi Ogihara, Osamu Kondo, and Yasushi Kobayashi, "Automatic extraction of endocranial surfaces from CT images of crania", _PLOS ONE_, Vol. 12, No. 4, p. e0168516, Apr. 2017, http://dx.doi.org/10.1371/journal.pone.0168516.
 1. Ali Motamedi, Zhe Wang, Nobuyoshi Yabuki, Tomohiro Fukuda, and Takashi Michikawa, "Signage visibility analysis and optimization system using BIM-enabled virtual reality (VR) environments", _Advanced Engineering Informatics_, Vol. 32, pp. 248–262, Apr. 2017, http://dx.doi.org/10.1016/j.aei.2017.03.005.
 1. 日高菜緒, 道川隆士, 矢吹信喜, 福田知弘, and Ali MOTAMEDI, "スケルトンと断面を利用したモノレールのレール部点群のポリゴンモデル化手法の開発", _土木学会論文集F3（土木情報学）_, Vol. 72, No. 2, p. I_156-I_166, 2016, http://dx.doi.org/10.2208/jscejcei.72.I_156.
@@ -144,9 +144,9 @@ http://dx.doi.org/10.1145/1236246.1236269
 1. Vaibhav Kumar, Takashi Michikawa, Hiromasa Suzuki, "Generating extended-medial surfaces from thin-plate volume data for reverse engineering applications", _精密工学会学術講演会講演論文集_, Vol. 2011, pp. 297–298, 2011,[doi:10.11522/pscjspe.2011A.0.297.0]( http://dx.doi.org/10.11522/pscjspe.2011A.0.297.0).
 1. Naomichi Ogihara, T. Kikuchi, Hiromasa Suzuki, Takashi Michikawa, Hiroyuki Hishida, Osamu Kondo, Hajime Ishida, Takeru Akazawa, "表面モデリングに基づいて化石頭蓋を再構成するための計算機手法の開発", _Ａｎｔｈｒｏｐｏｌ Ｓｃｉ_, Vol. 118, No. 3, Dec. 2010.
 1. 道川隆士, 鈴木宏正, 大田栄二, 佐藤裕一, 橋間正芳, "CADメッシュの姿勢の正規化", _設計工学・システム部門講演会講演論文集_, Vol. 2010, No. 20, p. “3304-1"-"3304-4,” Oct. 2010.
-1. 道川隆士 鈴木宏正, "ボリュームデータからの中立面生成とリバースエンジニアリングへの応用", _日本図学会秋季大会学術講演論文集_, Vol. 2010, pp. 119–122, 2010.
-1. 道川隆士 鈴木宏正, "ボリュームデータからの中立面生成とリバースエンジニアリングへの応用", in 日本図学会 2010 年度秋季大会学術講演論文集, 2010, pp. 119–122.
-1. 道川隆士 鈴木宏正, "CT画像を用いた薄板機械部品の非多様体メッシュ生成", _精密工学会学術講演会講演論文集_, Vol. 2010, pp. 83–84, 2010,[doi:10.11522/pscjspe.2010S.0.83.0]( http://dx.doi.org/10.11522/pscjspe.2010S.0.83.0).
+1. 道川隆士, 鈴木宏正, "ボリュームデータからの中立面生成とリバースエンジニアリングへの応用", _日本図学会秋季大会学術講演論文集_, Vol. 2010, pp. 119–122, 2010.
+1. 道川隆士, 鈴木宏正, "ボリュームデータからの中立面生成とリバースエンジニアリングへの応用", in 日本図学会 2010 年度秋季大会学術講演論文集, 2010, pp. 119–122.
+1. 道川隆士, 鈴木宏正, "CT画像を用いた薄板機械部品の非多様体メッシュ生成", _精密工学会学術講演会講演論文集_, Vol. 2010, pp. 83–84, 2010,[doi:10.11522/pscjspe.2010S.0.83.0]( http://dx.doi.org/10.11522/pscjspe.2010S.0.83.0).
 1. 菱田寛之, 道川隆士, 大竹豊, 鈴木宏正, "機能性画像を用いた骨格CT画像のセグメンテーション", _精密工学会学術講演会講演論文集_, Vol. 2010, pp. 123–124, 2010,[doi:10.11522/pscjspe.2010S.0.123.0]( http://dx.doi.org/10.11522/pscjspe.2010S.0.123.0).
 1. 菱田寛之, 道川隆士, 大竹豊, 鈴木宏正, 太田聡史, "構造解析を用いた3次元CTボリュームの領域分割手法", _精密工学会学術講演会講演論文集_, Vol. 2010, pp. 217–218, 2010,[doi:10.11522/pscjspe.2010A.0.217.0]( http://dx.doi.org/10.11522/pscjspe.2010A.0.217.0).
 1. 佐々木優太, 大竹豊, 道川隆士, 鈴木宏正, "現物ベースシミュレーションのためのスキャンメッシュの溶接部抽出", _精密工学会学術講演会講演論文集_, Vol. 2010, pp. 201–202, 2010,[doi:10.11522/pscjspe.2010A.0.201.0]( http://dx.doi.org/10.11522/pscjspe.2010A.0.201.0).
@@ -212,7 +212,8 @@ http://dx.doi.org/10.1145/1236246.1236269
 1. 加瀬究, 斎藤徳人, 村上武晴, 坂下亨男, 小町祐一, 道川隆士, 岡村幸太郎, 木暮繁, 和田智之, 緑川克美, "インフラの長寿命化を支える先進レーザー診断技術の研究開発", _自動車技術_, Vol. 71, No. 4, pp. 102–103, 2017.
 
 ## Patents
-1. 菱田寛之, 稲垣宏一, 中村武志, 山内雄太, 鈴木宏正, 道川隆士, 大竹豊, "画像解析装置及びプログラム", 日本国特許6152488号, 21-Jun-2017.
+1. 菱田寛之, 稲垣宏一, 中村武志, 山内雄太, 鈴木宏正, 道川隆士, 大竹豊, "画像解析装置及びプログラム", 日本国特許6118698号, 21-Jun-2017.
+    - also filed in US Patent No. 9824435.
 1. 菱田寛之, 稲垣宏一, 中村武志, 長谷川悠, 鈴木宏正, 道川隆士, 大竹豊, 近藤俊, "画像解析装置、画像解析方法及びプログラム", 日本国特許6152488号, 21-Jun-2017.
 1. 菱田寛之, 稲垣宏一, 中村武志, 道川隆士, 鈴木宏正, "画像解析装置及びプログラム", 日本国特許6118699号, 19-Apr-2017.
     - also filed in US Patent No. 9811898.
