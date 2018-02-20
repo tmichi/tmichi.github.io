@@ -31,7 +31,7 @@
   - 応用物理学会
   - ACM
  - Organizing Committee
-   - Asian Conference on Digital and Design Engineering (2018)
+%   - Asian Conference on Digital and Design Engineering (2018)
    - International Conference on Civil and Building Engineering Informatics (2015)
  - Program Committee
    - Asian Forum on Graphic Science (2015, 2017)
@@ -60,6 +60,7 @@
     - IEICE Transactions on Information and Systems
     - International Journal of Automation Technology
     - International Journal of CAD/CAM
+    - International Journal of Electrical and Computer Engineering
     - 情報処理学会論文誌
     - 画像電子学会
     - 電気通信情報学会論文誌
