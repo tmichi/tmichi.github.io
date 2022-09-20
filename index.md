@@ -6,7 +6,6 @@
 ----
 - [researchmap](https://researchmap.jp/tmichi) - profile, publication list 
 - github:[tmichi](https://github.com/tmichi)
-- [Japanese page](index.ja.md)
 
 ----
 ## Contact Information  
