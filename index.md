@@ -4,16 +4,9 @@
  - Senior Scientist, Image Processing Research Team, [RIKEN](https://riken.jp/) [Center for Advanced Photonics](https://rap.riken.jp)
 
 ----
-
- - [Profile](profile.html)
- - [Publication List](publication.html)
-
-----
-
-## Link
-
+ - [researchmap](https://researchmap.jp/tmichi) - profile, publication list 
  - github:[tmichi](https://github.com/tmichi)
- - [Japanese page](index.ja.html)
+ - [Japanese page](index.ja.md)
 ----
 
 ## Contact Information  
