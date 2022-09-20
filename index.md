@@ -4,13 +4,11 @@
 
 
 ----
- - [researchmap](https://researchmap.jp/tmichi) - profile, publication list 
- - github:[tmichi](https://github.com/tmichi)
- - [Japanese page](index.ja.md)
+- [researchmap](https://researchmap.jp/tmichi) - profile, publication list 
+- github:[tmichi](https://github.com/tmichi)
+- [Japanese page](index.ja.md)
+
 ----
-
-
-
 ## Contact Information  
 Takashi Michikawa, Dr. Eng.  
 Image Processing Research Team  
