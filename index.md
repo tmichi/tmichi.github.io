@@ -1,4 +1,3 @@
-% Takashi Michikawa
 #  Takashi Michikawa
 
  - Senior Scientist, Image Processing Research Team, [RIKEN](https://riken.jp/) [Center for Advanced Photonics](https://rap.riken.jp)
