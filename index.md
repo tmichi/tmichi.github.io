@@ -10,7 +10,9 @@
 ----
 ## Contact Information  
 Takashi Michikawa
+
 Division of Sustainable Energy and Environmental Engineering
+
 The University of Osaka
 
 mail: michikawa.takashi.see.eng (at) osaka-u.ac.jp   
