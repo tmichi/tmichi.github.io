@@ -1,5 +1,5 @@
 #  Takashi Michikawa
-
+ - Associate Professor, Division of Sustainable Energy and Environmental Engineering, The Universit of Osaka
  - Senior Scientist, Image Processing Research Team, [RIKEN](https://riken.jp/) [Center for Advanced Photonics](https://rap.riken.jp)
 
 
@@ -9,11 +9,9 @@
 
 ----
 ## Contact Information  
-Takashi Michikawa, Dr. Eng.  
-Image Processing Research Team  
-RIKEN Center for Advanced Photonics
+Takashi Michikawa
+Division of Sustainable Energy and Environmental Engineering
+The University of Osaska 
+mail:  michikawa.takashi.see.eng (at) osaka-u.ac.jp   
+Tel : +81-6-6879-7660
 
-2-1 Hirosawa, Wako, Saitama, 351-0198, JAPAN    
-mail:  michi (at) riken.jp   
-Tel : +81-48-462-1111 (ext. 7897)
-*Please contact me by mail. 
